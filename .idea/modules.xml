@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Covariant_ReturnType/Covariant_ReturnType.iml" filepath="$PROJECT_DIR$/Covariant_ReturnType/Covariant_ReturnType.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/HackerRank-Java.iml" filepath="$PROJECT_DIR$/.idea/HackerRank-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
     </modules>
   </component>
 </project>
